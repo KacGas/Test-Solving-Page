@@ -1,0 +1,33 @@
+[
+    {
+      "question": "Kto napisał krzyżaków?",
+      "options": ["Henryk Sienkiewicz", "Krzyżacy", "Onufry Zagłoba", "Fryderyk Chopin"],
+      "answer": 0
+    },
+    {
+      "question": "Jak nazywają się obecne zajęcia?",
+      "options": ["Wstęp do sztucznej inteligencji", "Zaawansowane aplikacje sieciowe", "Filozofia", "Programowanie w języku Java"],
+      "answer": 1
+    },
+    {
+      "question": "Która warstwa nie należy do modelu OSI?",
+      "options": ["Aplikacji", "Transportowa", "Sesji", "Internetowa"],
+      "answer": 2
+    },
+    {
+      "question": "Który język nie jest językiem programowania?",
+      "options": ["Java", "Angielski", "Python", "JavaScript"],
+      "answer": 1
+    },
+    {
+      "question": "Z jaką prędkością można poruszać się na autostradzie w Polsce'?",
+      "options": ["140 km/h", "130 km/h", "160 km/h", "Ile fabryka dała"],
+      "answer": 0
+    },
+    {
+      "question": "Jak nazywa się założyciel firmy SpaceX?",
+      "options": ["Elon Musk", "Elon Mózg", "Jan Brzechwa", "Mikołaj Kopernik"],
+      "answer": 0
+    }
+  ]
+  

@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "es6",
+      "strict": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "outDir": "./dist",
+      "baseUrl": "./src",
+      "lib": ["es2017", "dom"]
+      
+    },
+    "include": ["src/**/*", "app.ts"]
+  }
+  
