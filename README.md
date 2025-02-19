@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Features](#features)
 * [Technologies used](#technologies-used)
+* [Setup](#setup)
 
 ## Features
 • Allowing to solve the test.
@@ -28,3 +29,20 @@ Project is created with:
 * HTML
 * TypeScript
 * JSON
+
+## Setup
+### 1. Clone the repository
+```
+git clone git@github.com:KacGas/Test-Solving-Page.git
+cd spa-project
+```
+### 2. Install Dependencies
+```
+npm install
+
+```
+### 3. Run the Application
+Start the Spring Boot application:
+```
+npm start
+```
