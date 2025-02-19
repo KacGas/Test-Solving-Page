@@ -39,7 +39,6 @@ cd spa-project
 ### 2. Install Dependencies
 ```
 npm install
-
 ```
 ### 3. Run the Application
 Start the Spring Boot application:
